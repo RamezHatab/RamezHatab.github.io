@@ -1,3 +1,14 @@
 .dark_red{
     color:darkred;
 }
+
+h2 {
+   text-align: center;
+    color:darkslateblue;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: #444;
+}
