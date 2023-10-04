@@ -1,6 +1,7 @@
 #C1 {
-    font-size: 45px;
+    font-size: 55px;
     color: darkred;
+    align-self: center;
 }
 
 a:hover {
@@ -35,4 +36,10 @@ a:hover {
     justify-content: center;
     align-items: center;
     margin-right: 20px;
+    padding-bottom: 15px;
+}
+
+p{
+    margin-left: 25px;
+    margin-right: 25px;
 }
