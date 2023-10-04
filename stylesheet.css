@@ -13,3 +13,11 @@ body {
 #C1{
     font-size: 45px;
 }
+
+.image{
+    float: left;
+}
+
+.img_text{
+    color: black;
+}
