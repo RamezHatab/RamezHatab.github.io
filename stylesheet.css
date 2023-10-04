@@ -2,13 +2,9 @@
     color:darkred;
 }
 
-h2 {
-   text-align: center;
-    color:darkred;
-}
-
 body {
     font-family: sans-serif;
     line-height: 1.5;
-    align-items: center;
+    text-align: center;
+    color:darkred;
 }
