@@ -2,10 +2,6 @@
     font-style: italic;
 }
 
-.highlighted {
-    background-color: yellow;
-}
-
 #C1 {
     font-size: 45px;
     color: darkred;
@@ -33,4 +29,12 @@ a:hover {
 
 .official-site {
     flex-shrink: 0;
+    font-size: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
 }
