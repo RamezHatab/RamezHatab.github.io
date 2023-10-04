@@ -1,23 +1,27 @@
-.dark_red{
-    color:darkred;
+.text p {
+    font-style: italic;
 }
 
-h2 {
-    font-family: sans-serif;
-    line-height: 1.5;
-    text-align: center;
-    color:darkred;
-    background-color: slategrey;
+.highlighted {
+    background-color: yellow;
 }
 
-#C1{
+#C1 {
     font-size: 45px;
+    color: darkred;
 }
 
-.image{
+a:hover {
+    color: darkgreen;
+}
+
+.image {
     float: left;
+    margin-right: 20px; /* Add right margin */
+    border: 2px solid darkred; /* Add a border */
 }
 
-.text{
-    color: black;
+.text {
+    padding: 10px; /* Add padding */
+    border: 1px solid black; /* Add a border */
 }
