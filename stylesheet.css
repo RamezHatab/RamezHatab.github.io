@@ -4,11 +4,11 @@
 
 h2 {
    text-align: center;
-    color:darkslateblue;
+    color:darkred;
 }
 
 body {
-  font-family: sans-serif;
-  line-height: 1.5;
-    align-content: center;
+    font-family: sans-serif;
+    line-height: 1.5;
+    align-items: center;
 }
