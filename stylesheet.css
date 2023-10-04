@@ -7,8 +7,9 @@ body {
     line-height: 1.5;
     text-align: center;
     color:darkred;
+    background-color: slategrey;
 }
 
 #C1{
-    font-size: 35px;
+    font-size: 80px;
 }
